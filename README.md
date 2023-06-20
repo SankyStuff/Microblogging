@@ -1,6 +1,7 @@
 
 
-Try Out the Microblogging Website: https://microblogging-nextjs.vercel.app
+Try Out the Microblogging Website: https://microblogging-git-master-sankystuff.vercel.app/
+Or: https://microblogging-git-master-sankystuff.vercel.app/
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
